@@ -1,2 +1,2 @@
-# H3-Cocktails
-Code First assignment
+# H3-CopenhagenAirport
+DB First assignment
